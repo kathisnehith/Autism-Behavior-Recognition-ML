@@ -15,7 +15,7 @@ Detectron2: A framework for object detection and segmentation.
 Video Swin Transformer: A hierarchical vision transformer for action recognition.
 
 ## Skills Used
-- **Tools**: Python, FFmpeg, labelimg, Roboflow, Detectron2, Video Swin Transformer, SQL
+- **Tools**: Python, pytorch, OpenCV, pandas, FFmpeg, labelimg, Roboflow, Detectron2, Video Swin Transformer, SQL
 - **Techniques**: Data Preprocessing, Data Annotation, Object Detection, Action Recognition, Model Evaluation
 
 ## Conclusion
