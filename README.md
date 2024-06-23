@@ -9,7 +9,8 @@ Early and accurate recognition of ASD-related behaviors is crucial for timely in
 ## Methodology
 - **Dataset**: Collected **15TB data** from the ABA clinic, containing CSV files, image & video recordings of clinical sessions. The dataset includes various ASD-related behaviors like grabbing, head-banging, and aggression.
 - **Data Preprocessing**: Utilized FFmpeg for frame extraction and labelimg for manual annotation. Processed and cleaned the data annotations to COCO format to ensure high-quality input formats for the model requirements using Roboflow tool.
-Models Used:
+
+- Models Used:
 Detectron2: A framework for object detection and segmentation.
 Video Swin Transformer: A hierarchical vision transformer for action recognition.
 
